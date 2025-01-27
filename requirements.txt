@@ -1,0 +1,9 @@
+jupyterlab
+tensorflow>=2.0
+librosa
+parselmouth
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
