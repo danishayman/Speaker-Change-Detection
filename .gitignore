@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+test.csv
+train.csv
+val.csv
+IEMOCAP/
